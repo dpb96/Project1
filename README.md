@@ -26,6 +26,6 @@ The project involved a comprehensive approach:
 - **AI**: Leveraged for data analysis and validation processes.
 
 ## Conclusion
-This project seeks to provide a modern perspective on the longevity of left-handed individuals, revisiting a significant study from 1991 with updated tools and methodologies.
+This project seeks to provide a modern perspective on the longevity of left-handed individuals, revisiting a significant study from 1991 with updated tools and methodologies. Concluding with the result as YES left handed people do die young but the difference now is of 2.3 Years.
 
 Feel free to explore the repository and provide feedback or contributions. Thank you!
